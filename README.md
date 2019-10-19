@@ -18,4 +18,4 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 ## Demo 
-[https://guarded-wave-15906.herokuapp.com/](click)
+[https://guarded-wave-15906.herokuapp.com/]
