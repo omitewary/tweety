@@ -1,8 +1,8 @@
 {
-    "mongoURI": "mongodb+srv://DriftKing:omi123@tweetvati-9pb43.mongodb.net/test?retryWrites=true&w=majority",
-    "TWITTER_CONSUMER_KEY": "ELqBzdSHIu4qTTuCBcZlVR44t",
-    "TWITTER_CONSUMER_SECRET": "OpAp5tbicAismD2HhveDMAuvVC08jqYR9rmruUUcjlnrUHp4z1",
-    "TWITTER_ACCESS_TOKEN_KEY": "244276010-J7YdkNoyUv9RzKqm0pGjwidG6mpIBie5twwDmdv6",
-    "TWITTER_ACCESS_TOKEN_SECRET":"JTwfpi9miZHlzAshp4s1y8tL6MgWva5r0WFKvK0uAQP7b"
+    "mongoURI": "",
+    "TWITTER_CONSUMER_KEY": "",
+    "TWITTER_CONSUMER_SECRET": "",
+    "TWITTER_ACCESS_TOKEN_KEY": "",
+    "TWITTER_ACCESS_TOKEN_SECRET":""
   }
   
