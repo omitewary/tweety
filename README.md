@@ -2,6 +2,7 @@ Tweety is a simple Application to demonstrate usage of twitter stream api, socke
 This project uses Node JS and Express as back end server, mongoose as ORM and mongoDB as database.
 
 The project is deployed on heroku [https://guarded-wave-15906.herokuapp.com/](Demo)
+<br />
 You Tube Link https://youtu.be/lnvbOW0ZekQ
 
 ## Available Scripts
