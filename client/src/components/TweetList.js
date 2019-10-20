@@ -169,7 +169,7 @@ render() {
 
     let filterControls = <div onClick={()=>{this.togglePlay()}}>
       <Fab aria-label="add" className={classes.fab}>
-        {resumeState? <PlayIcon/> : <PauseIcon/>}
+        {resumeState?<PauseIcon/> :<PlayIcon/>}
       </Fab>
     </div>
 
