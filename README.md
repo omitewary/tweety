@@ -8,6 +8,8 @@ You Tube Link https://youtu.be/lnvbOW0ZekQ
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm install`
+It will install all the dependencies
 
 ### `npm run dev`
 
